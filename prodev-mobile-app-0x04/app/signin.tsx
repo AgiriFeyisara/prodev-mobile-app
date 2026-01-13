@@ -1,6 +1,6 @@
 import { View, Text, TextInput, TouchableOpacity, Image } from "react-native";
 import { useRouter } from "expo-router";
-import { styles } from "../styles/_joinstyle";
+import { styles } from "../styles/_join";
 import { GOOGLELOGO, FACEBOOKLOGO } from "../constants";
 
 export default function SignIn() {
